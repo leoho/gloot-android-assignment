@@ -1,3 +1,4 @@
+
 # G:LOOT front-end assignment
 ## Instructions
 Build a front-end application that communicates with the server provided in this repository. You may use any library/framework/technique/boilerplate that you like and deem suitable for this assignment.
@@ -24,3 +25,7 @@ These are some of the things we appreciate:
  - Handling of asynchronous fetching of data from an API.
  - Do not reinvent the wheel :)
  - Display some CSS/styling skills.
+ 
+## Submission notes:
+ -  If you are using a boilerplate, please submit the boilerplate code and your own code in different git commits, so that we may differentiate the two.
+ - Uploading the assignment to github and sending us the link is our preferred method of submission. However you may send the project as a zip file instead if github is not an option for you.
