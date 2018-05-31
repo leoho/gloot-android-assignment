@@ -45,7 +45,7 @@ function getPlayer(req, res) {
 function addPlayer(req, res) {
   const name = req.body.name;
   if (!name) {
-    return res.status(401).end()
+    return res.status(400).end();
   }
   const newPlayer = { id: cuid(), name };
   players = [...players, newPlayer];
