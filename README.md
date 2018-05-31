@@ -1,7 +1,7 @@
 
 # G:LOOT iOS assignment
 ## Instructions
-Build a iOS application that communicates with the server provided in this repository. You may use any library/framework/technique/boilerplate that you like and deem suitable for this assignment. If you use any library or framework that is not part of the standard, make sure to attach instructions on how to build your app.
+Build a iOS application that communicates with the server provided in this repository. You may use any library/framework/technique/boilerplate that you like and deem suitable for this assignment. If you use any library or framework that is not part of Apples standard frameworks, make sure to attach instructions on how to build your app.
 
 The application you will build is a very simple player management tool. The user should be presented with a list of players received from the server, and have the option to add new players and view/update/delete existing ones. Think [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 
